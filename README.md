@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F09B2B&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Danniela+Guerrero;Developer+%7C+Project+Leader;Penetration+Tester+%7C+Systems+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F09B2B&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Danniela+Guerrero;Project+Leader+%7C+Developer;Penetration+Tester+%7C+AI+Security+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,10 +19,10 @@
 
 
 #### How to contact me:
->  * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [danniela.guerrero@exfilsecurity.com](mailto:danniela.guerrero@exfilsecurity.com)
->  * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [lauzarate1227@gmail.com](mailto:lauzarate1227@gmail.com)
->  * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [ldzarateg@eafit.edu.co](mailto:ldzarateg@eafit.edu.co)
->  * <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" /> [LinkedIn](https://www.linkedin.com/in/laura-danniela-zárate-guerrero/)
+  * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [danniela.guerrero@exfilsecurity.com](mailto:danniela.guerrero@exfilsecurity.com)
+  * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [lauzarate1227@gmail.com](mailto:lauzarate1227@gmail.com)
+  * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [ldzarateg@eafit.edu.co](mailto:ldzarateg@eafit.edu.co)
+  * <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" /> [LinkedIn](https://www.linkedin.com/in/laura-danniela-zárate-guerrero/)
 
 ---
 
