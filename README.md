@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F09B2B&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Danniela+Z%C3%A1rate+Guerrero;AI+Developer+%7C+Penetration+Tester+%7C+Systems+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F09B2B&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Danniela+Z%C3%A1rate+Guerrero;Developer+%7C+Penetration+Tester+%7C+Systems+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@ I’m passionate about system design, software architecture, and the ethical use
 
 ---
 
-## 🚀 Highlight Projects
+## Some of my Projects
 
 ### [`TESUAM Project`](https://github.com/evennco/TESUAM-Project)
 
@@ -37,7 +37,7 @@ I’m passionate about system design, software architecture, and the ethical use
 
 ---
 
-## 🧠 Technical Stack Overview
+## Technical Stack Overview
 
 ### ✅ **Proficient In**
 
@@ -71,7 +71,7 @@ I’m passionate about system design, software architecture, and the ethical use
 ### TryHackMe
 
 <p align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4028857" style='border:none; width:300px; height:200px;'></iframe>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4028857" style='border:none;'></iframe>
 </p>
 
 
