@@ -12,7 +12,7 @@
 
 
 * I'm a Systems Engineering student at **EAFIT University**.
-* I work as an AI & security developer and as a Penetration Tester at **Exfil Security**.
+* I work as an AI & security developer and as a penetration tester trainee at **Exfil Security**.
 * Skilled in frontend & backend development.
 * Passionate about development, design, and analysis of secure systems.
 * Experience in leading multidisciplinary teams, I love learning and teaching new tech.
