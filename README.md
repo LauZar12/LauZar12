@@ -33,14 +33,15 @@
 ### 🧠 Programming Languages
 
 **Dominated:**
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash,java,sql" />
 </p>
+
 **Comfortable:**
 <p>
   <img src="https://skillicons.dev/icons?i=r,powershell" />
 </p>
+
 **Basic / Learning:**
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,php,haskell,assembly" />
@@ -49,14 +50,15 @@
 ### 💻 Software Development
 
 **Dominated:**
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,react,tailwind,bootstrap,materialui,fastapi,flask,django" />
 </p>
+
 **Comfortable:**
 <p>
   <img src="https://skillicons.dev/icons?i=vue,nextjs,nodejs" />
 </p>
+
 **Basic / Learning:**
 <p>
   <img src="https://skillicons.dev/icons?i=angular,alpinejs,laravel,php" />
@@ -65,10 +67,10 @@
 ### 🛡️ Cybersecurity
 
 **Dominated:**
-
 <p>
   <img src="https://skillicons.dev/icons?i=burpsuite,tryhackme,zap,nmap,apigateway,jwt,rest,https" />
 </p>
+
 **Comfortable:**
 <p>
   <img src="https://skillicons.dev/icons?i=htb,wireshark,kali,sqlmap,graphql" />
@@ -77,14 +79,15 @@
 ### 🧰 Miscellaneous
 
 **Dominated:**
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,notion,mysql,supabase,openai,pytorch,pandas" />
 </p>
+
 **Comfortable:**
 <p>
   <img src="https://skillicons.dev/icons?i=matplotlib,docker,githubactions,railway,figma,canva,lucidchart" />
 </p>
+
 **Basic / Learning:**
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,obsidian,adobe,drawio" />
