@@ -12,7 +12,7 @@
 
 
 
-# 👋 Hi, I'm Danniela Guerrero
+# 👋 Hi!
 
 
 * I'm a Systems Engineering student at **EAFIT University**
