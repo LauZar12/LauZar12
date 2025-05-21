@@ -30,39 +30,71 @@
 
 ---
 
-## 🛠 Mastered / Proficient Technologies
+### 🧠 Programming Languages
+
+**Dominated:**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash,java,mysql,r,powershell,cpp,c,php,haskell,assembly" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash,java,sql" />
 </p>
+**Comfortable:**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,react,tailwind,bootstrap,vue,nextjs,angular,alpinejs" />
+  <img src="https://skillicons.dev/icons?i=r,powershell" />
 </p>
+**Basic / Learning:**
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,laravel" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,php,haskell,assembly" />
 </p>
+
+### 💻 Software Development
+
+**Dominated:**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,supabase,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,react,tailwind,bootstrap,materialui,fastapi,flask,django" />
 </p>
+**Comfortable:**
 <p>
-  <img src="https://skillicons.dev/icons?i=openai,pytorch,pandas,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=vue,nextjs,nodejs" />
 </p>
+**Basic / Learning:**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,railway" />
+  <img src="https://skillicons.dev/icons?i=angular,alpinejs,laravel,php" />
 </p>
+
+### 🛡️ Cybersecurity
+
+**Dominated:**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=burpsuite,tryhackme,zap,nmap,htb,wireshark,kali,sqlmap" />
+  <img src="https://skillicons.dev/icons?i=burpsuite,tryhackme,zap,nmap,apigateway,jwt,rest,https" />
 </p>
+**Comfortable:**
 <p>
-  <img src="https://skillicons.dev/icons?i=apigateway,jwt,rest,https,graphql" />
+  <img src="https://skillicons.dev/icons?i=htb,wireshark,kali,sqlmap,graphql" />
 </p>
+
+### 🧰 Miscellaneous
+
+**Dominated:**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,notion,figma,canva,lucidchart,obsidian,adobe,drawio" />
+  <img src="https://skillicons.dev/icons?i=git,github,notion,mysql,supabase,openai,pytorch,pandas" />
+</p>
+**Comfortable:**
+<p>
+  <img src="https://skillicons.dev/icons?i=matplotlib,docker,githubactions,railway,figma,canva,lucidchart" />
+</p>
+**Basic / Learning:**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,obsidian,adobe,drawio" />
 </p>
 
 ---
 
-## 3. 📚 Currently Learning
+---
+
+## 3. Currently Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=githubactions,aws,security,openai,kali" />
@@ -70,7 +102,7 @@
 
 ---
 
-## 4. 🌱 Interested In Learning
+## 4. Interested In Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=people,jira,analytics,githubactions,gitlab,shell,openai,react" />
@@ -91,7 +123,7 @@
 
 ---
 
-## 5. 🔒 Security & AI Expertise
+## 5. Security & AI Expertise
 
 * ![Hacking](https://skillicons.dev/icons?i=kali) Ethical hacking methodology
 * ![LLM](https://skillicons.dev/icons?i=openai) LLM wrapper design and defense
@@ -102,7 +134,7 @@
 
 ---
 
-## 6. 🌟 Featured Projects
+## 6. Featured Projects
 
 ### [TESUAM Project](https://github.com/evennco/TESUAM-Project)
 
@@ -129,5 +161,4 @@
 
 
 ---
-
 
