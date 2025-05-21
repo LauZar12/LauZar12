@@ -1,0 +1,332 @@
+# 👋 Hi, I'm Danniela Zárate Guerrero
+
+## 1. 📌 Quick Profile
+
+* 🎓 Systems Engineering student at **EAFIT University**
+* 💼 AI & security developer at **Exfil Security**
+* 🛡️ Penetration tester
+* 👩‍💻 Passionate about development, design, and analysis of secure systems
+* 🎯 Skilled in frontend & backend development
+* 🚀 Experience in leading multidisciplinary teams
+* 🧠 Love learning and teaching new tech
+
+---
+
+## 2. 🛠 Mastered / Proficient Technologies
+
+*Icons included below reflect each technology or tool visually for quick recognition.*
+
+### 🔹 Lenguajes de Programación
+
+#### 🟢 Dominated
+
+![Python](https://skillicons.dev/icons?i=python) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Bash](https://skillicons.dev/icons?i=bash) ![Java](https://skillicons.dev/icons?i=java) ![MySQL](https://skillicons.dev/icons?i=mysql)
+
+#### 🟡 Comfortable
+
+![R](https://skillicons.dev/icons?i=r) ![PowerShell](https://skillicons.dev/icons?i=powershell)
+
+#### 🟠 Basic / Learning
+
+![C++](https://skillicons.dev/icons?i=cpp) ![C](https://skillicons.dev/icons?i=c) ![PHP](https://skillicons.dev/icons?i=php) ![Haskell](https://skillicons.dev/icons?i=haskell) ![Assembly](https://skillicons.dev/icons?i=assembly)
+
+#### 🟢 Dominated
+
+* ![Python](https://skillicons.dev/icons?i=python) Python
+* ![TypeScript](https://skillicons.dev/icons?i=typescript) TypeScript
+* ![JavaScript](https://skillicons.dev/icons?i=javascript) JavaScript
+* ![Bash](https://skillicons.dev/icons?i=bash) Bash
+* ![Java](https://skillicons.dev/icons?i=java) Java
+* ![SQL](https://skillicons.dev/icons?i=mysql) SQL
+
+#### 🟡 Comfortable
+
+* ![R](https://skillicons.dev/icons?i=r) R
+* ![PowerShell](https://skillicons.dev/icons?i=powershell) PowerShell
+
+#### 🟠 Basic / Learning
+
+* ![C++](https://skillicons.dev/icons?i=cpp) C++
+* ![C](https://skillicons.dev/icons?i=c) C
+* ![PHP](https://skillicons.dev/icons?i=php) PHP
+* ![Haskell](https://skillicons.dev/icons?i=haskell) Haskell
+* ![Assembly](https://skillicons.dev/icons?i=assembly) Assembly
+
+### 🔹 Desarrollo Web - Frontend
+
+#### 🟢 Dominated
+
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![scss](https://skillicons.dev/icons?i=sass) ![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Material UI](https://skillicons.dev/icons?i=mui) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+#### 🟡 Comfortable
+
+![Vue](https://skillicons.dev/icons?i=vue) ![Next.js](https://skillicons.dev/icons?i=nextjs)
+
+#### 🟠 Basic / Learning
+
+![Angular](https://skillicons.dev/icons?i=angular) ![Alpine.js](https://skillicons.dev/icons?i=alpinejs)
+
+#### 🟢 Dominated
+
+* HTML
+* CSS / SCSS
+* React
+* Tailwind CSS
+* Material UI
+* Bootstrap
+
+#### 🟡 Comfortable
+
+* Vue
+* Next.js
+
+#### 🟠 Basic / Learning
+
+* Angular
+* Alpine.js
+
+#### 🟢 Dominated\$1#### 🟡 Comfortable\$2#### 🟠 Basic / Learning
+
+* Angular
+* Alpine.js
+* Angular
+
+### 🔹 Desarrollo Web - Backend
+
+#### 🟢 Dominated
+
+![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Flask](https://skillicons.dev/icons?i=flask) ![Django](https://skillicons.dev/icons?i=django)
+
+#### 🟡 Comfortable
+
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+
+#### 🟠 Basic / Learning
+
+![Laravel](https://skillicons.dev/icons?i=laravel) ![PHP](https://skillicons.dev/icons?i=php)
+
+#### 🟢 Dominated
+
+* FastAPI
+* Flask
+* Django
+
+#### 🟡 Comfortable
+
+* Node.js
+
+#### 🟠 Basic / Learning
+
+* Laravel
+* PHP
+
+### 🔹 Bases de Datos
+
+#### 🟢 Dominated
+
+![MySQL](https://skillicons.dev/icons?i=mysql) ![Supabase](https://skillicons.dev/icons?i=supabase)
+
+#### 🟠 Basic / Learning
+
+![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Firebase](https://skillicons.dev/icons?i=firebase)
+
+#### 🟢 Dominated
+
+* MySQL
+* Supabase
+
+#### 🟠 Basic / Learning
+
+* MongoDB
+* Firebase
+
+### 🔹 Ciencia de Datos e IA
+
+#### 🟢 Dominated
+
+![OpenAI](https://skillicons.dev/icons?i=openai) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![Pandas](https://skillicons.dev/icons?i=pandas)
+
+#### 🟡 Comfortable
+
+![Pandas](https://skillicons.dev/icons?i=pandas) ![Matplotlib](https://skillicons.dev/icons?i=matplotlib)
+
+#### 🟢 Dominated
+
+* OpenAI
+* PyTorch
+* Pandas
+
+#### 🟡 Comfortable
+
+* Pandas
+* Matplotlib
+
+### 🔹 DevOps / Cloud / Automatización
+
+#### 🟡 Comfortable
+
+![Docker](https://skillicons.dev/icons?i=docker) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Railway](https://skillicons.dev/icons?i=railway)
+
+#### 🟡 Comfortable
+
+* Docker
+* GitHub Actions
+* Railway
+
+### 🔹 Seguridad Informática
+
+#### 🟢 Dominated
+
+![Burp Suite](https://skillicons.dev/icons?i=burpsuite) ![TryHackMe](https://skillicons.dev/icons?i=tryhackme) ![OWASP ZAP](https://skillicons.dev/icons?i=zap) ![Nmap](https://skillicons.dev/icons?i=nmap)
+
+#### 🟡 Comfortable
+
+![Hack The Box](https://skillicons.dev/icons?i=htb) ![Wireshark](https://skillicons.dev/icons?i=wireshark) ![Kali Linux](https://skillicons.dev/icons?i=kali) ![SQLMap](https://skillicons.dev/icons?i=sqlmap)
+
+#### 🟢 Dominated
+
+* Burp Suite
+* TryHackMe
+* OWASP ZAP
+* Nmap
+
+#### 🟡 Comfortable
+
+* Hack The Box
+* Wireshark
+* Kali Linux
+* SQLMap
+
+### 🔹 APIs y Comunicación
+
+#### 🟢 Dominated
+
+![API Gateway](https://skillicons.dev/icons?i=apigateway) ![JWT](https://skillicons.dev/icons?i=jwt) ![REST](https://skillicons.dev/icons?i=rest) ![HTTPS](https://skillicons.dev/icons?i=https)
+
+#### 🟡 Comfortable
+
+![GraphQL](https://skillicons.dev/icons?i=graphql)
+
+#### 🟢 Dominated
+
+* API Gateway
+* JWT
+* REST
+* HTTPS
+
+#### 🟡 Comfortable
+
+* GraphQL
+
+### 🔹 Herramientas y Gestión Visual
+
+#### 🟢 Dominated
+
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Notion](https://skillicons.dev/icons?i=notion)
+
+#### 🟡 Comfortable
+
+![Figma](https://skillicons.dev/icons?i=figma) ![Canva](https://skillicons.dev/icons?i=canva) ![Lucidchart](https://skillicons.dev/icons?i=lucidchart)
+
+#### 🟠 Basic / Learning
+
+![Obsidian](https://skillicons.dev/icons?i=obsidian) ![Adobe](https://skillicons.dev/icons?i=adobe) ![Draw.io](https://skillicons.dev/icons?i=drawio)
+
+---
+
+## 3. 📚 Currently Learning
+
+![GitHubActions](https://skillicons.dev/icons?i=githubactions) ![aws](https://skillicons.dev/icons?i=aws) ![security](https://skillicons.dev/icons?i=security) ![llm](https://skillicons.dev/icons?i=openai) ![penetrationtesting](https://skillicons.dev/icons?i=kali)
+
+---
+
+## 4. 🌱 Interested In Learning
+
+* ![Management](https://skillicons.dev/icons?i=people) People Management for tech teams
+* ![Project Management](https://skillicons.dev/icons?i=jira) Software Project Management (Jira, ClickUp)
+* ![Metrics](https://skillicons.dev/icons?i=analytics) OKRs and performance metrics
+* ![Leadership](https://skillicons.dev/icons?i=leader) Technical leadership
+* ![Mentoring](https://skillicons.dev/icons?i=review) Mentoring and code review
+* ![Scalability](https://skillicons.dev/icons?i=team) Team scalability and growth stages
+* ![CI/CD](https://skillicons.dev/icons?i=githubactions) Advanced CI/CD pipelines
+* ![DevOps](https://skillicons.dev/icons?i=gitlab) DevOps workflows (GitHub Actions, GitLab CI, Jenkins)
+* ![Automation](https://skillicons.dev/icons?i=shell) Automation with scripts/bots/cron jobs
+* ![LLMOps](https://skillicons.dev/icons?i=openai) LLMOps (monitoring, eval, fine-tuning)
+* ![Prompt Engineering](https://skillicons.dev/icons?i=prompt) Advanced prompt engineering
+* ![AI+Web](https://skillicons.dev/icons?i=react) AI + Web integration
+
+---
+
+## 5. 🔒 Security & AI Expertise
+
+* ![Hacking](https://skillicons.dev/icons?i=kali) Ethical hacking methodology
+* ![LLM](https://skillicons.dev/icons?i=openai) LLM wrapper design and defense
+* ![Prompt](https://skillicons.dev/icons?i=zap) Prompt injection prevention
+* ![Security](https://skillicons.dev/icons?i=security) Secure AI API integration
+* ![Burp](https://skillicons.dev/icons?i=burpsuite) Burp Suite Labs & Academy practices
+* ![Teams](https://skillicons.dev/icons?i=people) Red Team / Blue Team collaboration
+
+---
+
+## 6. 🌟 Featured Projects
+
+### [TESUAM Project](https://github.com/evennco/TESUAM-Project)
+
+**Rol:**
+**Tecnologías:**
+
+> Plataforma comunitaria de transformación social y visibilización tecnológica desde la Amazonía.
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=evennco&repo=TESUAM-Project&theme=onedark" />
+</p>
+
+### [SaSa](https://github.com/LauZar12/SaSa)
+
+**Rol:**
+**Tecnologías:**
+
+> App que combate el desperdicio de alimentos usando IA y análisis de datos. Conecta locales, usuarios y donaciones.
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LauZar12&repo=SaSa&theme=onedark" />
+</p>
+
+### [CampFire](https://github.com/LauZar12/Campfire)
+
+**Rol:**
+**Tecnologías:**
+
+> Plataforma de compra de videojuegos con recomendaciones personalizadas, reviews de comunidad y entorno seguro.
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LauZar12&repo=Campfire&theme=onedark" />
+</p>
+
+### [Programming-Languages-JCOCO](https://github.com/LauZar12/Programming-Languages---JCOCO)
+
+**Rol:**
+**Tecnologías:**
+
+> Implementación de lenguaje propio desde cero. Análisis de estructuras y comportamiento.
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LauZar12&repo=Programming-Languages---JCOCO&theme=onedark" />
+</p>
+
+## 7. 📊 GitHub Stats
+
+<div align="center">
+  <img height=230 src="https://github-readme-stats.vercel.app/api?username=lauzar12&include_all_commits=true&hide_border=true&show_icons=true&rank_icon=percentile&card_width=300px&theme=onedark&line_height=30&custom_title=Danniela's+GitHub+Stats" />
+  <img height=230 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauzar12&layout=donut&langs_count=10&hide_title=true&role=owner,collaborator&theme=onedark&card_width=310&hide_border=true&hide=html" />
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=lauzar12&theme=onedark&hide_border=true&border_radius=5&card_width=800">
+</div>
+
+## 8. 📫 Contact
+
+* <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [danniela.guerrero@exfilsecurity.com](mailto:danniela.guerrero@exfilsecurity.com)
+* <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [lauzarate1227@gmail.com](mailto:lauzarate1227@gmail.com)
+* <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [ldzarateg@eafit.edu.co](mailto:ldzarateg@eafit.edu.co)
+* <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" /> [LinkedIn](https://www.linkedin.com/in/laura-danniela-zárate-guerrero/)
+
+---
