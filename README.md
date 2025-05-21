@@ -111,9 +111,6 @@
 
 > Plataforma comunitaria de transformación social y visibilización tecnológica desde la Amazonía.
 
-<p>
-  <a src="https://github-readme-stats.vercel.app/api/pin/?username=evennco&repo=TESUAM-Project&theme=onedark" />
-</p>
 
 ### [SaSa](https://github.com/LauZar12/SaSa)
 
@@ -122,9 +119,6 @@
 
 > App que combate el desperdicio de alimentos usando IA y análisis de datos. Conecta locales, usuarios y donaciones.
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LauZar12&repo=SaSa&theme=onedark" />
-</p>
 
 ### [CampFire](https://github.com/LauZar12/Campfire)
 
@@ -132,10 +126,6 @@
 **Tecnologías:**
 
 > Plataforma de compra de videojuegos con recomendaciones personalizadas, reviews de comunidad y entorno seguro.
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LauZar12&repo=Campfire&theme=onedark" />
-</p>
 
 
 ---
