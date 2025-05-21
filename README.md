@@ -11,10 +11,6 @@
 </p>
 
 
-
-# 👋 Hi!
-
-
 * I'm a Systems Engineering student at **EAFIT University**.
 * I work as an AI & security developer at **Exfil Security**.
 * Penetration tester in progress.
