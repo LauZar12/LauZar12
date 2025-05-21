@@ -112,7 +112,7 @@
 > Plataforma comunitaria de transformación social y visibilización tecnológica desde la Amazonía.
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=evennco&repo=TESUAM-Project&theme=onedark" />
+  <a src="https://github-readme-stats.vercel.app/api/pin/?username=evennco&repo=TESUAM-Project&theme=onedark" />
 </p>
 
 ### [SaSa](https://github.com/LauZar12/SaSa)
