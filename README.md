@@ -13,18 +13,16 @@
 
 * I'm a Systems Engineering student at **EAFIT University**.
 * I work as an AI & security developer at **Exfil Security**.
-* Penetration tester in progress.
+* Skilled in frontend & backend development, as weel as a Penetration Tester in progress.
 * Passionate about development, design, and analysis of secure systems.
-* Skilled in frontend & backend development.
-* Experience in leading multidisciplinary teams.
-* Love learning and teaching new tech.
+* Experience in leading multidisciplinary teams, I love learning and teaching new tech.
 
 
 #### How to contact me:
-  * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [danniela.guerrero@exfilsecurity.com](mailto:danniela.guerrero@exfilsecurity.com)
-  * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [lauzarate1227@gmail.com](mailto:lauzarate1227@gmail.com)
-  * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [ldzarateg@eafit.edu.co](mailto:ldzarateg@eafit.edu.co)
-  * <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" /> [LinkedIn](https://www.linkedin.com/in/laura-danniela-zárate-guerrero/)
+>  * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [danniela.guerrero@exfilsecurity.com](mailto:danniela.guerrero@exfilsecurity.com)
+>  * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [lauzarate1227@gmail.com](mailto:lauzarate1227@gmail.com)
+>  * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [ldzarateg@eafit.edu.co](mailto:ldzarateg@eafit.edu.co)
+>  * <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" /> [LinkedIn](https://www.linkedin.com/in/laura-danniela-zárate-guerrero/)
 
 ---
 
