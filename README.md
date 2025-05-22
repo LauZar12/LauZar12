@@ -23,9 +23,6 @@
   * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [lauzarate1227@gmail.com](mailto:lauzarate1227@gmail.com)
   * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [ldzarateg@eafit.edu.co](mailto:ldzarateg@eafit.edu.co)
   * <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" /> [https://www.linkedin.com/in/laura-danniela-zárate-guerrero/](https://www.linkedin.com/in/laura-danniela-zárate-guerrero/)
-
----
-
 ---
 
 ### 🧠 Programming Languages
@@ -90,9 +87,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,obsidian,adobe,drawio" />
 </p>
-
----
-
 ---
 
 ## 3. Currently Learning
@@ -100,7 +94,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=githubactions,aws,security,openai,kali" />
 </p>
-
 ---
 
 ## 4. Interested In Learning
@@ -121,7 +114,6 @@
 * LLMOps (monitoring, eval, fine-tuning)
 * Advanced prompt engineering
 * AI + Web integration
-
 ---
 
 ## 5. Security & AI Expertise
@@ -132,7 +124,6 @@
 * ![Security](https://skillicons.dev/icons?i=security) Secure AI API integration
 * ![Burp](https://skillicons.dev/icons?i=burpsuite) Burp Suite Labs & Academy practices
 * ![Teams](https://skillicons.dev/icons?i=people) Red Team / Blue Team collaboration
-
 ---
 
 ## 6. Featured Projects
@@ -159,7 +150,4 @@
 **Tecnologías:**
 
 > Plataforma de compra de videojuegos con recomendaciones personalizadas, reviews de comunidad y entorno seguro.
-
-
 ---
-
