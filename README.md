@@ -3,6 +3,7 @@
 
 ---
 <!-- ✨ Header Animation -->
+This is a work in progress, ok?
 
 <p align="center">
   <a href="https://git.io/typing-svg">
