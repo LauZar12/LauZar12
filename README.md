@@ -1,6 +1,5 @@
 <!-- Danniela Zárate Guerrero - GitHub Profile README -->
 
-
 ---
 <!-- ✨ Header Animation -->
 This is a work in progress, ok?
@@ -11,13 +10,11 @@ This is a work in progress, ok?
   </a>
 </p>
 
-
 * I'm a Systems Engineering student at **EAFIT University**.
 * I work as an AI & security developer and as a penetration tester trainee at **Exfil Security**.
 * Skilled in frontend & backend development.
 * Passionate about development, design, and analysis of secure systems.
 * Experience in leading multidisciplinary teams, I love learning and teaching new tech.
-
 
 #### How to contact me:
   * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [danniela.guerrero@exfilsecurity.com](mailto:danniela.guerrero@exfilsecurity.com)
@@ -28,7 +25,7 @@ This is a work in progress, ok?
 
 ### 🧠 Programming Languages
 
-**Dominated:**
+**Proficient:**
 <p>
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash,java,sql" />
 </p>
@@ -45,7 +42,7 @@ This is a work in progress, ok?
 
 ### 💻 Software Development
 
-**Dominated:**
+**Proficient:**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,react,tailwind,bootstrap,materialui,fastapi,flask,django" />
 </p>
@@ -62,7 +59,7 @@ This is a work in progress, ok?
 
 ### 🛡️ Cybersecurity
 
-**Dominated:**
+**Proficient:**
 <p>
   <img src="https://skillicons.dev/icons?i=burpsuite,tryhackme,zap,nmap,apigateway,jwt,rest,https" />
 </p>
@@ -74,7 +71,7 @@ This is a work in progress, ok?
 
 ### 🧰 Miscellaneous
 
-**Dominated:**
+**Proficient:**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,notion,mysql,supabase,openai,pytorch,pandas" />
 </p>
@@ -131,24 +128,22 @@ This is a work in progress, ok?
 
 ### [TESUAM Project](https://github.com/evennco/TESUAM-Project)
 
-**Rol:**
-**Tecnologías:**
+**Role:**
+**Technologies:**
 
-> Plataforma comunitaria de transformación social y visibilización tecnológica desde la Amazonía.
-
+> Community platform for social transformation and technological visibility from the Amazon.
 
 ### [SaSa](https://github.com/LauZar12/SaSa)
 
-**Rol:**
-**Tecnologías:**
+**Role:**
+**Technologies:**
 
-> App que combate el desperdicio de alimentos usando IA y análisis de datos. Conecta locales, usuarios y donaciones.
-
+> App that combats food waste using AI and data analysis. Connects businesses, users, and donations.
 
 ### [CampFire](https://github.com/LauZar12/Campfire)
 
-**Rol:**
-**Tecnologías:**
+**Role:**
+**Technologies:**
 
-> Plataforma de compra de videojuegos con recomendaciones personalizadas, reviews de comunidad y entorno seguro.
+> Video game marketplace with personalized recommendations, community reviews, and a secure environment, mostly teamwork.
 ---
