@@ -131,6 +131,7 @@ This is a work in progress, ok?
 **Role:**
 **Technologies:**
 
+
 > Community platform for social transformation and technological visibility from the Amazon.
 
 ### [SaSa](https://github.com/LauZar12/SaSa)
