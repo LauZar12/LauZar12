@@ -11,8 +11,9 @@ This is a work in progress, ok?
 </p>
 
 * I'm a Systems Engineering student at **EAFIT University**.
-* I work as an AI & security developer and as a penetration tester trainee at **Exfil Security**.
-* Skilled in frontend & backend development.
+* I work as an AI & security developer and as a penetration tester at **Exfil Security**.
+* Skilled in frontend and backend development.
+* Skilled in DevOPS and architecture construction for applications.
 * Passionate about development, design, and analysis of secure systems.
 * Experience in leading multidisciplinary teams, I love learning and teaching new tech.
 
