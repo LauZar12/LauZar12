@@ -20,7 +20,6 @@ This is a work in progress, ok?
 #### How to contact me:
   * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [danniela.guerrero@exfilsecurity.com](mailto:danniela.guerrero@exfilsecurity.com)
   * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [lauzarate1227@gmail.com](mailto:lauzarate1227@gmail.com)
-  * <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" /> [ldzarateg@eafit.edu.co](mailto:ldzarateg@eafit.edu.co)
   * <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" /> [https://www.linkedin.com/in/laura-danniela-zárate-guerrero/](https://www.linkedin.com/in/laura-danniela-zárate-guerrero/)
 ---
 
